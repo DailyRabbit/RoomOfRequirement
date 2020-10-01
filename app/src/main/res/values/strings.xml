@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RoomOfRequirement</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibG91Z2FtYSIsImEiOiJjazZ2eGplOGcwNjRwM2ttb2k3dXRsMG92In0.WeMTb1quopVbNWOQewMkJQ</string>
 </resources>
